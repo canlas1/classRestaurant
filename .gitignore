@@ -1,0 +1,12 @@
+.DS_Store
+#bower_components
+.idea
+www/redeem_codes.csv
+log/*.log
+tests/_output/*
+node_modules
+npm-debug.log
+www/code_files/
+vendor/
+composer/
+app.log
